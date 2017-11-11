@@ -1,8 +1,9 @@
 # RNN stock price prediction
 
 ***
+* TensorFlow Version: 1.3.0
 
-* [Source Code(Jupyter)](https://github.com/leehaesung/RNN_stock_price_prediction/blob/master/rnn_stock_prediction_longterm.ipynb)
+* [Source Code(Jupyter-notebook)](https://github.com/leehaesung/RNN_stock_price_prediction/blob/master/rnn_stock_prediction_longterm.ipynb)
 
 *** 
 
