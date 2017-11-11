@@ -8,6 +8,7 @@
 *** 
 
 * The results
+![RNN_stock_price_prediction.png](https://github.com/leehaesung/RNN_stock_price_prediction/blob/master/images/RNN_stock_price_prediction.png)
 
 ![stock_price_prediction01.png](https://github.com/leehaesung/RNN_stock_price_prediction/blob/master/images/stock_price_prediction01.png)
 
